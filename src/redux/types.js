@@ -1,0 +1,4 @@
+export const INCREMENT = 'COUNTER/INCREMENT';
+export const DECREMENT = 'COUNTER/DECREMENT';
+export const CHANGE_THEME = 'THEME/CHANGE_THEME';
+export const LOADING = 'APP/LOADING';
