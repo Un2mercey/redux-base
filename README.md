@@ -1,10 +1,10 @@
 # Redux Base
-Basic redux usage.
+Basic [redux](https://redux.js.org/) usage.
 
 ## File of contents
-src/without-redux/index.js - application without redux.
-src/native-redux/index.js - application with custom redux.
-src/index.js - application with [redux](https://redux.js.org/).
+<p>src/without-redux/index.js - application without redux.</p>
+<p>src/native-redux/index.js - application with custom redux.</p>
+<p> src/index.js - application with redux.</p>
 
 ## Installation
 1. [NodeJS](https://nodejs.org/)
