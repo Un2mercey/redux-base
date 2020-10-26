@@ -1,4 +1,4 @@
-import './styles.css';
+import './../styles.css';
 
 let state = 0;
 let counter = document.getElementById('counter');

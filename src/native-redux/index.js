@@ -1,6 +1,6 @@
-import { createStore } from './native-redux/create-store';
-import { rootReducer } from './native-redux/root-reducer';
-import './styles.css'
+import { createStore } from './create-store';
+import { rootReducer } from './root-reducer';
+import './../styles.css'
 
 let counter = document.getElementById('counter');
 let addBtn = document.getElementById('add');
